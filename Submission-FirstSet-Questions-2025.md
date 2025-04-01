@@ -31,7 +31,7 @@ Include the provided question for your exercise and your answer in the space pro
 > 
 > My own example with German language translation is shown below. 
 > 
->  ![birthday_german](images/christmas_german.png)
+>  ![birthday_spanish](images/christmas_spanish.png)
 > 
 > Make sure to add a final commit to your birthday branch with the amended code.
 

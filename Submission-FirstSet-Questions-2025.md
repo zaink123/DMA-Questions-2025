@@ -42,7 +42,7 @@ Include the provided question for your exercise and your answer in the space pro
 > 
 > 
 > 
-
+![birthday_spanish](images/birthdayquestiontask.png)
 ---
 ### Quadrants ###
 
